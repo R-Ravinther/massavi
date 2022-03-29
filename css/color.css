@@ -382,7 +382,7 @@ button,
 
 
 /* ....................................
-11. border green
+11. border orange
 .......................................*/
 
 .client-image:before,
@@ -405,7 +405,7 @@ button,
 .icon-box-icon,
 .partner:hover .partner-logo,
 .thank-icon {
-    border-color: #09bc8a;
+    border-color: #f38321;
 }
 
 

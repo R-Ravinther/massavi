@@ -1217,9 +1217,25 @@ p.big-p {
     margin-bottom: 30px;
 }
 
-
-
-
+.call-box{
+	width: 50%;
+  border: 3px dotted #f38321;
+  border-radius:10px;
+  padding: 10px; 
+  margin-left:10px;
+  margin-top:10px;  
+}
+.call-box p{
+	color:white;
+	margin-top:15px;
+	
+}
+.quality-box{
+	width:100%;
+	height:auto;
+	background-color:#2d3192;
+	padding:100px;
+}
 /* ....................................
 8. Services
 .......................................*/
@@ -1538,8 +1554,7 @@ p.big-p {
     font-size: 19px;
 }
 
-.team-each:hover .team-image.img-lined:before {
-    opacity: .8;
+.team-each:hover .team-image.img-lined:before {    
     border: none;
 }
 
@@ -1566,6 +1581,7 @@ p.big-p {
     height: 37px;
     border-radius: 50%;
     margin-left: 15px;
+	text-align:center
 }
 
 .arrow-navigation .nav-slide img {
