@@ -234,8 +234,7 @@ h6 {
 ul {
     margin: 0px;
     padding: 0px;
-    font-size: 15px;
-    font-weight: 500;
+    font-size: 15px;    
     line-height: 26px;
 }
 
@@ -1210,7 +1209,13 @@ p.big-p {
 .about-us-3[data-overlay="9"]::before {
     background-color: #fff;
 }
-
+.about-icon{
+	padding:10px;
+}
+.about-icon ul li{	
+	list-style-image:url(../img/icons/check-mark.png);
+	list-style-position:outside;
+}
 .icon-box-border {
     border: 1px solid;
     padding: 25px 15px;
@@ -1236,6 +1241,15 @@ p.big-p {
 	background-color:#2d3192;
 	padding:100px;
 }
+
+.exp-quality-box{
+	width:100%;
+	height:auto;
+	background-color:#2d3192;
+	padding:10px;
+}
+
+
 /* ....................................
 8. Services
 .......................................*/
