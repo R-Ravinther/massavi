@@ -1249,7 +1249,18 @@ p.big-p {
 .service-box {
     background-color: #fff;
     padding: 50px 40px;
-	height:500px;
+	height:auto;
+	
+}
+.service-box ul{
+	
+	padding-bottom:10px;
+	
+}
+.service-box ul li{
+	list-style:disc;
+	
+	
 }
 
 .service-icon {
