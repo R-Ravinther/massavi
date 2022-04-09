@@ -1609,9 +1609,10 @@ p.big-p {
     position: relative;
 }
 
-.arrow-navigation .slide-right img {
+/*.arrow-navigation .slide-right img {
     left: -13px;
 }
+*/
 
 .arrow-navigation .nav-slide:hover {
     transform: scale(1.1);
