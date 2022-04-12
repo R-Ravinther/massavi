@@ -517,7 +517,7 @@ label {
 	
 }
 .nav-bg{
-	background-color:#2d3192;
+	background-color:#f38321;
 }
 
 .menu-links:after {
@@ -1216,11 +1216,20 @@ p.big-p {
 
 .call-box{
 	width: 50%;
-  border: 3px dotted #f38321;
+  border: 3px dotted #cac2c0;
   border-radius:10px;
   padding: 10px; 
   margin-left:10px;
   margin-top:10px;  
+}
+
+.blog-type-2 .call-box{
+	width: 50%;
+  border: 3px dotted #f38321;
+  border-radius:10px;
+  padding: 10px; 
+  margin-left:10px;
+  margin-top:10px; 
 }
 .call-box p{
 	color:white;
